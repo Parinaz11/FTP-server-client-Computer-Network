@@ -2,7 +2,6 @@
 
 This project implements a simple File Transfer Protocol (FTP) system using Python and a Tkinter-based graphical user interface. It was developed as the final project for a Computer Networks course at university.
 
----
 
 ## Project Overview
 
@@ -21,7 +20,6 @@ The client communicates with the server through predefined commands to perform b
 2. Run the **client application**.
 3. A GUI window will open where you can enter commands and view responses from the server.
 
----
 
 ## Supported Commands
 
@@ -57,7 +55,6 @@ QUIT
 ```
 Closes the client connection.
 
----
 
 ## Technologies Used
 
@@ -77,8 +74,6 @@ This project demonstrates core concepts of computer networking, including:
 - File transfer mechanisms
 - Command-based protocol design
 - Basic GUI integration with network systems
-
----
 
 ## Academic Context
 
